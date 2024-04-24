@@ -1,0 +1,2 @@
+Make this only appear for 5 seconds: Warehousing and Distribution
+We offer storage and efficient distribution solutions for your goods          then after 5 seconds let it change to this: Supply Chain and Management (as the heading) and this: We manage the complete journey of your goods, from sourcing to delivery (as the text under it)
